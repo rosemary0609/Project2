@@ -5,21 +5,14 @@ public class Student extends Staff {
 	Course course;
 	String department;
 	int coursenum;
-	Student(int number,String name,String sex,String grade,String department,int coursenum){
+	String main;
+	Student(int number,String name,String sex,String grade,String department,int coursenum,String main){
 		super(number,name,sex,grade);
 //		this.course=course;
+		this.main=main;
 		this.department=department;
 		this.coursenum=coursenum;
 	}
-//	public void judge(int coursenum){
-//		this.coursenum=coursenum;
-//		if(coursenum>1){
-//			System.out.println("选课不成功,只能选择一科");
-//			
-//		}else{
-//			System.out.println("你已成功选课");
-//		}
-//	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -63,6 +56,12 @@ public class Student extends Staff {
 	}
 	public String toString() {
 		return super.toString()+course+t1;
+	}
+	public String getMain() {
+		return main;
+	}
+	public void setMain(String main) {
+		this.main = main;
 	}
 
 }
