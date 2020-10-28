@@ -22,10 +22,10 @@
 调用Teacher类里设置的judge方法判断选课数量。在对象里设置tuike方法，将test实例化，使对象调用实例方法。用if-else if进行选课成功与否的判断，在tuike方法里将课程数量进行选课成功与否的
 判断前提。
 ### 四、核心代码  
-1、![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5jc*b91U34O2XRg5gKrMbSSKJ3ZOT2TDIsk.IBjFL5w4eZ9wrJVIuLMmUM1Jj8WpvCKj7IkOA.3k*qfuZdvAsew!/b&bo=ZgJwAQAAAAADBzc!&rf=viewer_4)  
-2、![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHELBe*YhZO4Avspuj9fvqeNAna9BUpzO4Sr6Ffq1.TsPg0zF836cl.b5.kCPGRXnjY!/b&bo=BALFAAAAAAADB.E!&rf=viewer_4)    
-3、![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHFjvlUCCMKtBFRi58m3TI3Jpi9wBpvC.zDnBcFyzvinR4BYQdI0dHOkyjJE.*XI*0g!/b&bo=mgF.AAAAAAADB8c!&rf=viewer_4)    
-4、![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHF52NAR64flox0vy39NHRC7IT3nOcT5XfoX5RmfssX0Q0.I2GS6GLttYU5HHcgz4BE!/b&bo=IQN8AAAAAAADB3w!&rf=viewer_4)
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5jc*b91U34O2XRg5gKrMbSSKJ3ZOT2TDIsk.IBjFL5w4eZ9wrJVIuLMmUM1Jj8WpvCKj7IkOA.3k*qfuZdvAsew!/b&bo=ZgJwAQAAAAADBzc!&rf=viewer_4)  
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHELBe*YhZO4Avspuj9fvqeNAna9BUpzO4Sr6Ffq1.TsPg0zF836cl.b5.kCPGRXnjY!/b&bo=BALFAAAAAAADB.E!&rf=viewer_4)    
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHFjvlUCCMKtBFRi58m3TI3Jpi9wBpvC.zDnBcFyzvinR4BYQdI0dHOkyjJE.*XI*0g!/b&bo=mgF.AAAAAAADB8c!&rf=viewer_4)    
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHF52NAR64flox0vy39NHRC7IT3nOcT5XfoX5RmfssX0Q0.I2GS6GLttYU5HHcgz4BE!/b&bo=IQN8AAAAAAADB3w!&rf=viewer_4)
 ### 五、系统运行截图  
 ![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5iUc4cHuEdBBvs*DMoKArb9gESTeNwwz9C07xO9xNKIxHpzwe5Jx1rb9av3EDDU1eM1CAikhRf8ow.ZJxPX0hxM!/b&bo=.gP0AAAAAAADBy8!&rf=viewer_4)
 ![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5iUc4cHuEdBBvs*DMoKArb9msQ3I7vXfW32*92TdNUbgFnZSUlIXxYXEGLaygKmPlqbcsm9NvONsjRdkt05tz9M!/b&bo=hgO2AAAAAAADBxE!&rf=viewer_4)
