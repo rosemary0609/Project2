@@ -3,7 +3,7 @@
 ### 一、实验目的
 1、从学生角度了解系统中的实体及其关系，学会定义类中的属性及方法。  
 2、掌握面向对象的类中设计方法（属性、方法）。  
-3、掌握累的继承用法，通过构造方法实例化对象。  
+3、掌握类的继承用法，通过构造方法实例化对象。  
 4、学会使用super()，用于实例化子类。  
 5、掌握使用Objcet根类的toString()方法，应用在相关对象的信息输出中。
 ### 二、实验要求  
@@ -21,7 +21,13 @@
 6、在Test主类先对Teacher、Course、Student按照所设置有参的顺序进行赋值，将course对象里的内容赋值给student的setCourse方法，将student对象里的内容赋值给teacher的setT1方法。
 调用Teacher类里设置的judge方法判断选课数量。在对象里设置tuike方法，将test实例化，使对象调用实例方法。用if-else if进行选课成功与否的判断，在tuike方法里将课程数量进行选课成功与否的
 判断前提。
-### 四、核心代码 
+### 四、核心代码  
+1、![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5jc*b91U34O2XRg5gKrMbSSKJ3ZOT2TDIsk.IBjFL5w4eZ9wrJVIuLMmUM1Jj8WpvCKj7IkOA.3k*qfuZdvAsew!/b&bo=ZgJwAQAAAAADBzc!&rf=viewer_4)  
+2、![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHELBe*YhZO4Avspuj9fvqeNAna9BUpzO4Sr6Ffq1.TsPg0zF836cl.b5.kCPGRXnjY!/b&bo=BALFAAAAAAADB.E!&rf=viewer_4)  
+3、![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHFjvlUCCMKtBFRi58m3TI3Jpi9wBpvC.zDnBcFyzvinR4BYQdI0dHOkyjJE.*XI*0g!/b&bo=mgF.AAAAAAADB8c!&rf=viewer_4)  
+4、![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5m8qxH9ZYzkHLIe4VS*dzHF52NAR64flox0vy39NHRC7IT3nOcT5XfoX5RmfssX0Q0.I2GS6GLttYU5HHcgz4BE!/b&bo=IQN8AAAAAAADB3w!&rf=viewer_4)
 ### 五、系统运行截图  
 ![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5iUc4cHuEdBBvs*DMoKArb9gESTeNwwz9C07xO9xNKIxHpzwe5Jx1rb9av3EDDU1eM1CAikhRf8ow.ZJxPX0hxM!/b&bo=.gP0AAAAAAADBy8!&rf=viewer_4)
-### 六、编程感想  
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5iUc4cHuEdBBvs*DMoKArb9msQ3I7vXfW32*92TdNUbgFnZSUlIXxYXEGLaygKmPlqbcsm9NvONsjRdkt05tz9M!/b&bo=hgO2AAAAAAADBxE!&rf=viewer_4)
+### 六、编程感想
+在这次编程中，已掌握定义类中的属性及方法，学会使用super()，用于实例化子类的方法，也会使用tostring方法对所设的属性进行输出，掌握了类的继承用法，通过构造方法实例化对象。但是在编程的过程中，也遇到了问题，不知道如何将Teacher类和Student类与Course类相关联，但在老师的指导下，只需要定义course类型的course，让其与course相关联即可，便能打印出学生成功选课所对应的选课信息，再实现逻辑判断退课、选课不成功的功能，最终完成学生选课这一系统。
